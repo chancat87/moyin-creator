@@ -189,7 +189,7 @@ moyin-creator/
 
 
 
-<img src="https://github.com/user-attachments/assets/3469e172-8c4f-4da3-9865-7ed7a4a16734" width="200" alt="交流群" />
+<img src="https://github.com/user-attachments/assets/a812178b-fc90-43a2-b9ea-c251f2aee0a7" width="200" alt="交流群" />
 
 <img src="docs/images/wechat-contact.png" width="200" alt="微信联系" />
 
