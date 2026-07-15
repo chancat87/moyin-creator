@@ -56,6 +56,11 @@
 - 智能提示词构建：自动三层融合（动作 + 镜头语言 + 对白唇形同步）
 - 首帧图网格拼接（N×N 策略）
 - Seedance 2.0 参数约束自动校验（≤9图 + ≤3视频 + ≤3音频，prompt≤5000字符）
+- <img width="1388" height="891" alt="685ccb3dcbc6205677b6b25456d9221" src="https://github.com/user-attachments/assets/43e29f00-0a3e-4910-864c-357b203d410f" />
+<img width="1384" height="894" alt="f71978f46aaeb090bc8a462b283fe6c" src="https://github.com/user-attachments/assets/fa5c7156-531e-416c-b5fc-b859a7b452e3" />
+<img width="1385" height="890" alt="b39cbf8ed8b0e765d67c11cebdd5f22" src="https://github.com/user-attachments/assets/0081d627-cf63-4527-9ee8-58149f128455" />
+<img width="1928" height="1048" alt="eeb79c960bf6a2213978f6dd70ee885" src="https://github.com/user-attachments/assets/07d244a7-6ad4-42fb-8e76-35241bee4c50" />
+
 - <img width="578" height="801" alt="eecf9d3e210cb52066025a0d1b48b54" src="https://github.com/user-attachments/assets/34b623a3-9be9-4eb5-ae52-a6a9553598ea" />
 <img width="584" height="802" alt="59e57c230f67e2c5aaa425a09332d2e" src="https://github.com/user-attachments/assets/54c6036b-c545-45c0-a32b-de71b8138484" />
 
